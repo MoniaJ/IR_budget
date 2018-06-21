@@ -1,1 +1,10 @@
-plik 
+Plik tk_eoffice_bud pobiera w GUI od użytkownika numer pliku do zmiennej pierwszy_tekst.
+Według mojego rozumienia ta zmienna istnieje i jest dostępna.
+Ta zmienna jest wykorzystywana w funkcji eoffice_et, kóra stanowi komendę buttona runButton.
+Metoda eoffice_et jest zaimportowana z pliku functions_file_new
+
+otrzymuję NameError: name "pierwszy_tekst" is not defined
+
+Przypuszczam oczywiście, że podobny error dostanę dla zmiennej ostatni_tekst
+
+Gdy cały kod jest umieszczony w jednym pliku (tk_eoffice_old.py), skrypt działa
