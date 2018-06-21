@@ -7,4 +7,5 @@ otrzymuję NameError: name "pierwszy_tekst" is not defined
 
 Przypuszczam oczywiście, że podobny error dostanę dla zmiennej ostatni_tekst
 
-Gdy cały kod jest umieszczony w jednym pliku (tk_eoffice_old.py), skrypt działa
+Gdy cały kod jest umieszczony w jednym pliku (tk_eoffice_old.py), skrypt działa.
+(Uwaga! w tk_office_old.py pominięto współpracę z bazą danych)
